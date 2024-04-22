@@ -1,0 +1,75 @@
+{
+  "header": {
+    "menu": {
+      "solutions": "Lösungen",
+      "pricing": "Preise",
+      "docs": "Dokumentation",
+      "company": "Über uns"
+    },
+    "button": {
+      "sign-in": "Anmelden",
+      "sign-up": "Registrieren"
+    }
+  },
+  "footer": {
+    "text": {
+      "long-notice": "Große Neuigkeiten! Wir haben ein neues Produkt!",
+      "short-notice": "Wir haben ein neues Produkt!"
+    },
+    "button": {
+      "learn-more": "Mehr erfahren"
+    }
+  },
+  "home": {
+    "headline": "Angular + Tailwind Template",
+    "text": "Wenn die Seite wie der Screenshot in \"src/assets/img\" aussieht, ist Tailwind korrekt eingerichtet und du kannst beginnen.",
+    "ngrx": {
+      "title": "NGRX Test",
+      "description": "Wir haben NGRX Funktionalität schon implementiert. Schreibe etwas in die Textarea, drück den Button und aktualisiere den Browser Tab um das zu verifizieren.",
+      "button": {
+        "store": "Input speichern",
+        "reset": "Store zurücksetzen"
+      },
+      "store": "Gespeicherter Wert: ",
+      "message": "Deine Eingabe war: "
+    }
+  },
+  "features": {
+    "title": "Funktionen",
+    "text": "Hier findest du eine Liste mit Funktionen, die du sofort nutzen kannst.",
+    "feature-list": {
+      "tailwind": {
+        "title": "Tailwind CSS 3.0",
+        "description": "Dieses Template implementiert Tailwind CSS 3.0. Du kannst diese Vorlagen sofort in deinen Komponenten verwenden."
+      },
+      "routing": {
+        "title": "Routing",
+        "description": "Wir haben Routing innerhalb der App eingerichtet und sogar eine 404-Fehlerseite hinzugefügt, falls die eingegebene URL falsch ist."
+      },
+      "i18n": {
+        "title": "i18n",
+        "description": "Dieses Template nutzt ngx-translate. Du kannst verschiedene Sprachen nutzen, indem du die .json Files erweiterst."
+      },
+      "directory": {
+        "title": "Orderstruktur",
+        "description": "Wir haben eine skalierbare Ordnerstruktur angelegt, die einer modernen Angular-Architektur entspricht."
+      },
+      "ngrx": {
+        "title": "NgRX",
+        "description": "NgRx ist vorkonfiguriert. Du brauchst nichts zu installieren und kannst direkt Actions, Reducer und Effects für deine Feautes anlegen."
+      }
+    }
+  },
+  "about": {
+    "title": "Über uns",
+    "headline": "Unser Team"
+  },
+  "404": {
+    "title": "Fehler 404",
+    "headline": "Seite nicht gefunden",
+    "text": "Es tut uns leid. Diese Seite existiert nicht.",
+    "button": {
+      "back-to-start": "Zurück zur Startseite"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "menu": {
+      "solutions": "Solutions",
+      "pricing": "Pricing",
+      "docs": "Docs",
+      "company": "Company"
+    },
+    "button": {
+      "sign-in": "Sign In",
+      "sign-up": "Sign Up"
+    }
+  },
+  "footer": {
+    "text": {
+      "long-notice": "Big news! We're excited to announce a brand new product.",
+      "short-notice": "We announced a new product!"
+    },
+    "button": {
+      "learn-more": "Learn more"
+    }
+  },
+  "home": {
+    "headline": "Angular + Tailwind Template",
+    "text": "If the website looks like the screenshot in \"src/assets/img\", Tailwind is set up and you can start coding.",
+    "ngrx": {
+      "title": "NGRX Test",
+      "description": "We already implemented NGRX functionality. Type something, hit the button and refresh the browser tab to verify.",
+      "button": {
+        "store": "Store input",
+        "reset": "Reset store"
+      },
+      "store": "Stored value is: ",
+      "message": "Your input was: "
+    }
+  },
+  "features": {
+    "title": "Features",
+    "text": "Here is a list with implemented features that you can use right away.",
+    "feature-list": {
+      "tailwind": {
+        "title": "Tailwind CSS 3.0",
+        "description": "This template fully implements Tailwind CSS 3.0. You can use there templates right away within you components."
+      },
+      "routing": {
+        "title": "Routing",
+        "description": "We added routing within the application and even a 404 error page, if the URL is incorrect."
+      },
+      "i18n": {
+        "title": "i18n",
+        "description": "This template uses ngx-translate. You can add multiple translation files to set up the app in different languages."
+      },
+      "directory": {
+        "title": "Folder structure",
+        "description": "We set up a scalable folder structure, which you can use."
+      },
+      "ngrx": {
+        "title": "NgRX",
+        "description": "NgRx is preconfigured. You do not need to install anything and are able to create actions, reducers and effects for your features."
+      }
+    }
+  },
+  "about": {
+    "title": "About",
+    "headline": "Meet our team"
+  },
+  "404": {
+    "title": "404 error",
+    "headline": "Page not found.",
+    "text": "Sorry, we couldn’t find the page you’re looking for.",
+    "button": {
+      "back-to-start": "Go back home"
+    }
+  }
+}
